@@ -1,0 +1,23 @@
+body{
+    background-image: url("Bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.status2{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+h1,h3{
+    background-color: white;
+    opacity: 0.8;
+    width: 50%;
+    font-size: 15px;
+}
+.btn{
+    font-size: 15px;
+}
+#status2{
+    margin-top: 20px;
+}
